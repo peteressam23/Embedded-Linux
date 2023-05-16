@@ -94,8 +94,3 @@ while (True):
     
  
 
-#elif operation == '/':
- #   result = divide(numbers)
- #   if result is not None:
-  #      print("Quotient =", result)
-
